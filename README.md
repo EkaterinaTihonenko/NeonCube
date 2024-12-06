@@ -1,0 +1,1 @@
+![Image alt](https://github.com/EkaterinaTihonenko/NeonCube/blob/main/img/video.gif)
